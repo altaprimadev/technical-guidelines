@@ -120,5 +120,10 @@ Gunakan library hanya jika ia menyelesaikan masalah yang sangat kompleks (misal:
 3. Custom Errors: Gunakan class error kustom untuk membedakan antara operational error dan programmer error.
 
 ---
+
+# Tools and Dependencies
+1. Node.js v24
+2. Yarn (stable) `$yarn set version stable`
+
 ## Backer
 <a href="https://github.com/adhemukhlis"><img src="https://github.com/adhemukhlis.png" style="width:40px; height:40px; border-radius: 50%;"/></a>
